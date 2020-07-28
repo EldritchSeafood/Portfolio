@@ -1,0 +1,18 @@
+C:\Users\damcn\Desktop\College Year 2, Term 2\INFO3137 - Software Design Patterns\Project 2\DocumentBuilderLibrary\bin\Debug\netcoreapp3.1\DocumentBuilderLibrary.deps.json
+C:\Users\damcn\Desktop\College Year 2, Term 2\INFO3137 - Software Design Patterns\Project 2\DocumentBuilderLibrary\bin\Debug\netcoreapp3.1\DocumentBuilderLibrary.dll
+C:\Users\damcn\Desktop\College Year 2, Term 2\INFO3137 - Software Design Patterns\Project 2\DocumentBuilderLibrary\bin\Debug\netcoreapp3.1\DocumentBuilderLibrary.pdb
+C:\Users\damcn\Desktop\College Year 2, Term 2\INFO3137 - Software Design Patterns\Project 2\DocumentBuilderLibrary\obj\Debug\netcoreapp3.1\DocumentBuilderLibrary.csprojAssemblyReference.cache
+C:\Users\damcn\Desktop\College Year 2, Term 2\INFO3137 - Software Design Patterns\Project 2\DocumentBuilderLibrary\obj\Debug\netcoreapp3.1\DocumentBuilderLibrary.AssemblyInfoInputs.cache
+C:\Users\damcn\Desktop\College Year 2, Term 2\INFO3137 - Software Design Patterns\Project 2\DocumentBuilderLibrary\obj\Debug\netcoreapp3.1\DocumentBuilderLibrary.AssemblyInfo.cs
+C:\Users\damcn\Desktop\College Year 2, Term 2\INFO3137 - Software Design Patterns\Project 2\DocumentBuilderLibrary\obj\Debug\netcoreapp3.1\DocumentBuilderLibrary.csproj.CoreCompileInputs.cache
+C:\Users\damcn\Desktop\College Year 2, Term 2\INFO3137 - Software Design Patterns\Project 2\DocumentBuilderLibrary\obj\Debug\netcoreapp3.1\DocumentBuilderLibrary.dll
+C:\Users\damcn\Desktop\College Year 2, Term 2\INFO3137 - Software Design Patterns\Project 2\DocumentBuilderLibrary\obj\Debug\netcoreapp3.1\DocumentBuilderLibrary.pdb
+C:\Users\damcn\Desktop\College Year 2, Term 2\INFO3137 - Software Design Patterns\Project 2\Project 2\DocumentBuilderLibrary\bin\Debug\netcoreapp3.1\DocumentBuilderLibrary.deps.json
+C:\Users\damcn\Desktop\College Year 2, Term 2\INFO3137 - Software Design Patterns\Project 2\Project 2\DocumentBuilderLibrary\bin\Debug\netcoreapp3.1\DocumentBuilderLibrary.dll
+C:\Users\damcn\Desktop\College Year 2, Term 2\INFO3137 - Software Design Patterns\Project 2\Project 2\DocumentBuilderLibrary\bin\Debug\netcoreapp3.1\DocumentBuilderLibrary.pdb
+C:\Users\damcn\Desktop\College Year 2, Term 2\INFO3137 - Software Design Patterns\Project 2\Project 2\DocumentBuilderLibrary\obj\Debug\netcoreapp3.1\DocumentBuilderLibrary.csprojAssemblyReference.cache
+C:\Users\damcn\Desktop\College Year 2, Term 2\INFO3137 - Software Design Patterns\Project 2\Project 2\DocumentBuilderLibrary\obj\Debug\netcoreapp3.1\DocumentBuilderLibrary.AssemblyInfoInputs.cache
+C:\Users\damcn\Desktop\College Year 2, Term 2\INFO3137 - Software Design Patterns\Project 2\Project 2\DocumentBuilderLibrary\obj\Debug\netcoreapp3.1\DocumentBuilderLibrary.AssemblyInfo.cs
+C:\Users\damcn\Desktop\College Year 2, Term 2\INFO3137 - Software Design Patterns\Project 2\Project 2\DocumentBuilderLibrary\obj\Debug\netcoreapp3.1\DocumentBuilderLibrary.csproj.CoreCompileInputs.cache
+C:\Users\damcn\Desktop\College Year 2, Term 2\INFO3137 - Software Design Patterns\Project 2\Project 2\DocumentBuilderLibrary\obj\Debug\netcoreapp3.1\DocumentBuilderLibrary.dll
+C:\Users\damcn\Desktop\College Year 2, Term 2\INFO3137 - Software Design Patterns\Project 2\Project 2\DocumentBuilderLibrary\obj\Debug\netcoreapp3.1\DocumentBuilderLibrary.pdb

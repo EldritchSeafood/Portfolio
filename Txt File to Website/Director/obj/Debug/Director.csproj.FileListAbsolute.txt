@@ -1,0 +1,8 @@
+C:\Users\damcn\Desktop\College Year 2, Term 2\INFO3137 - Software Design Patterns\Project 1\INFO3137-Project1\Director\obj\Debug\Director.csprojAssemblyReference.cache
+C:\Users\damcn\Desktop\College Year 2, Term 2\INFO3137 - Software Design Patterns\Project 1\INFO3137-Project1\Director\obj\Debug\Director.csproj.CoreCompileInputs.cache
+C:\Users\damcn\Desktop\College Year 2, Term 2\INFO3137 - Software Design Patterns\Project 1\INFO3137-Project1\docs\Director.exe.config
+C:\Users\damcn\Desktop\College Year 2, Term 2\INFO3137 - Software Design Patterns\Project 1\INFO3137-Project1\docs\Director.exe
+C:\Users\damcn\Desktop\College Year 2, Term 2\INFO3137 - Software Design Patterns\Project 1\INFO3137-Project1\docs\Director.pdb
+C:\Users\damcn\Desktop\College Year 2, Term 2\INFO3137 - Software Design Patterns\Project 1\INFO3137-Project1\Director\obj\Debug\Director.csproj.CopyComplete
+C:\Users\damcn\Desktop\College Year 2, Term 2\INFO3137 - Software Design Patterns\Project 1\INFO3137-Project1\Director\obj\Debug\Director.exe
+C:\Users\damcn\Desktop\College Year 2, Term 2\INFO3137 - Software Design Patterns\Project 1\INFO3137-Project1\Director\obj\Debug\Director.pdb

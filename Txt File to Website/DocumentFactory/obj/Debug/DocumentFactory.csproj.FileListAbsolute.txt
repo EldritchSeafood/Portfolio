@@ -1,0 +1,6 @@
+C:\Users\damcn\Desktop\College Year 2, Term 2\INFO3137 - Software Design Patterns\Project 1\INFO3137-Project1\DocumentFactory\obj\Debug\DocumentFactory.csproj.CoreCompileInputs.cache
+C:\Users\damcn\Desktop\College Year 2, Term 2\INFO3137 - Software Design Patterns\Project 1\INFO3137-Project1\DocumentFactory\bin\Debug\DocumentFactory.dll
+C:\Users\damcn\Desktop\College Year 2, Term 2\INFO3137 - Software Design Patterns\Project 1\INFO3137-Project1\DocumentFactory\bin\Debug\DocumentFactory.pdb
+C:\Users\damcn\Desktop\College Year 2, Term 2\INFO3137 - Software Design Patterns\Project 1\INFO3137-Project1\DocumentFactory\obj\Debug\DocumentFactory.dll
+C:\Users\damcn\Desktop\College Year 2, Term 2\INFO3137 - Software Design Patterns\Project 1\INFO3137-Project1\DocumentFactory\obj\Debug\DocumentFactory.pdb
+C:\Users\damcn\Desktop\College Year 2, Term 2\INFO3137 - Software Design Patterns\Project 1\INFO3137-Project1\DocumentFactory\obj\Debug\DocumentFactory.csprojAssemblyReference.cache
