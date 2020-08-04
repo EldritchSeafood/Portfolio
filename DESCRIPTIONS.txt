@@ -8,6 +8,9 @@ Golf Game:
 Password Manager with JSON Verification:
 	Creates a JSON file that the user can store account information (not encrypted) into by using the console which will check that the inputted information matches against the provided schema. Written in C#.
 
+Renewable Energy Data
+	Gives the user various ways to search through statistics extracted from an XML file using DOM and XPath. Written in C#.
+
 Storefront Website:
 	A TXT file with a URL to a hosted website containing a login system, storefront stocked with products with a backordering system, a way to view your accounts past orders, and a store locator tool. Written with ASP, Vue, JavaScript, and C#.
 

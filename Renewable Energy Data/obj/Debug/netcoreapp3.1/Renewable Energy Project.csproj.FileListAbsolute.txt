@@ -1,0 +1,13 @@
+C:\Users\damcn\Desktop\College Year 2, Term 2\INFO3138 - Programming Declerative Languages\Project 2\Project2\Renewable Energy Project\bin\Debug\netcoreapp3.1\Renewable Energy Project.exe
+C:\Users\damcn\Desktop\College Year 2, Term 2\INFO3138 - Programming Declerative Languages\Project 2\Project2\Renewable Energy Project\bin\Debug\netcoreapp3.1\Renewable Energy Project.deps.json
+C:\Users\damcn\Desktop\College Year 2, Term 2\INFO3138 - Programming Declerative Languages\Project 2\Project2\Renewable Energy Project\bin\Debug\netcoreapp3.1\Renewable Energy Project.runtimeconfig.json
+C:\Users\damcn\Desktop\College Year 2, Term 2\INFO3138 - Programming Declerative Languages\Project 2\Project2\Renewable Energy Project\bin\Debug\netcoreapp3.1\Renewable Energy Project.runtimeconfig.dev.json
+C:\Users\damcn\Desktop\College Year 2, Term 2\INFO3138 - Programming Declerative Languages\Project 2\Project2\Renewable Energy Project\bin\Debug\netcoreapp3.1\Renewable Energy Project.dll
+C:\Users\damcn\Desktop\College Year 2, Term 2\INFO3138 - Programming Declerative Languages\Project 2\Project2\Renewable Energy Project\bin\Debug\netcoreapp3.1\Renewable Energy Project.pdb
+C:\Users\damcn\Desktop\College Year 2, Term 2\INFO3138 - Programming Declerative Languages\Project 2\Project2\Renewable Energy Project\obj\Debug\netcoreapp3.1\Renewable Energy Project.csprojAssemblyReference.cache
+C:\Users\damcn\Desktop\College Year 2, Term 2\INFO3138 - Programming Declerative Languages\Project 2\Project2\Renewable Energy Project\obj\Debug\netcoreapp3.1\Renewable Energy Project.AssemblyInfoInputs.cache
+C:\Users\damcn\Desktop\College Year 2, Term 2\INFO3138 - Programming Declerative Languages\Project 2\Project2\Renewable Energy Project\obj\Debug\netcoreapp3.1\Renewable Energy Project.AssemblyInfo.cs
+C:\Users\damcn\Desktop\College Year 2, Term 2\INFO3138 - Programming Declerative Languages\Project 2\Project2\Renewable Energy Project\obj\Debug\netcoreapp3.1\Renewable Energy Project.csproj.CoreCompileInputs.cache
+C:\Users\damcn\Desktop\College Year 2, Term 2\INFO3138 - Programming Declerative Languages\Project 2\Project2\Renewable Energy Project\obj\Debug\netcoreapp3.1\Renewable Energy Project.dll
+C:\Users\damcn\Desktop\College Year 2, Term 2\INFO3138 - Programming Declerative Languages\Project 2\Project2\Renewable Energy Project\obj\Debug\netcoreapp3.1\Renewable Energy Project.pdb
+C:\Users\damcn\Desktop\College Year 2, Term 2\INFO3138 - Programming Declerative Languages\Project 2\Project2\Renewable Energy Project\obj\Debug\netcoreapp3.1\Renewable Energy Project.genruntimeconfig.cache
