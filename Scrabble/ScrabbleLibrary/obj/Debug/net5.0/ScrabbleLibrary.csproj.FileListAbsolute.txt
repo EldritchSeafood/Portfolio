@@ -1,0 +1,17 @@
+C:\Users\Dylan\Desktop\CPA3_Term_5\INFO-5060 Component Based Programming with .NET\Project 1\DM_ScrabbleProject\ScrabbleLibrary\bin\Debug\net5.0\ScrabbleLibrary.deps.json
+C:\Users\Dylan\Desktop\CPA3_Term_5\INFO-5060 Component Based Programming with .NET\Project 1\DM_ScrabbleProject\ScrabbleLibrary\bin\Debug\net5.0\ScrabbleLibrary.dll
+C:\Users\Dylan\Desktop\CPA3_Term_5\INFO-5060 Component Based Programming with .NET\Project 1\DM_ScrabbleProject\ScrabbleLibrary\bin\Debug\net5.0\ref\ScrabbleLibrary.dll
+C:\Users\Dylan\Desktop\CPA3_Term_5\INFO-5060 Component Based Programming with .NET\Project 1\DM_ScrabbleProject\ScrabbleLibrary\bin\Debug\net5.0\ScrabbleLibrary.pdb
+C:\Users\Dylan\Desktop\CPA3_Term_5\INFO-5060 Component Based Programming with .NET\Project 1\DM_ScrabbleProject\ScrabbleLibrary\bin\Debug\net5.0\Interop.Microsoft.Office.Core.dll
+C:\Users\Dylan\Desktop\CPA3_Term_5\INFO-5060 Component Based Programming with .NET\Project 1\DM_ScrabbleProject\ScrabbleLibrary\bin\Debug\net5.0\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\Dylan\Desktop\CPA3_Term_5\INFO-5060 Component Based Programming with .NET\Project 1\DM_ScrabbleProject\ScrabbleLibrary\obj\Debug\net5.0\ScrabbleLibrary.csprojAssemblyReference.cache
+C:\Users\Dylan\Desktop\CPA3_Term_5\INFO-5060 Component Based Programming with .NET\Project 1\DM_ScrabbleProject\ScrabbleLibrary\obj\Debug\net5.0\Interop.Microsoft.Office.Core.dll
+C:\Users\Dylan\Desktop\CPA3_Term_5\INFO-5060 Component Based Programming with .NET\Project 1\DM_ScrabbleProject\ScrabbleLibrary\obj\Debug\net5.0\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\Dylan\Desktop\CPA3_Term_5\INFO-5060 Component Based Programming with .NET\Project 1\DM_ScrabbleProject\ScrabbleLibrary\obj\Debug\net5.0\ScrabbleLibrary.csproj.ResolveComReference.cache
+C:\Users\Dylan\Desktop\CPA3_Term_5\INFO-5060 Component Based Programming with .NET\Project 1\DM_ScrabbleProject\ScrabbleLibrary\obj\Debug\net5.0\ScrabbleLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dylan\Desktop\CPA3_Term_5\INFO-5060 Component Based Programming with .NET\Project 1\DM_ScrabbleProject\ScrabbleLibrary\obj\Debug\net5.0\ScrabbleLibrary.AssemblyInfoInputs.cache
+C:\Users\Dylan\Desktop\CPA3_Term_5\INFO-5060 Component Based Programming with .NET\Project 1\DM_ScrabbleProject\ScrabbleLibrary\obj\Debug\net5.0\ScrabbleLibrary.AssemblyInfo.cs
+C:\Users\Dylan\Desktop\CPA3_Term_5\INFO-5060 Component Based Programming with .NET\Project 1\DM_ScrabbleProject\ScrabbleLibrary\obj\Debug\net5.0\ScrabbleLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Dylan\Desktop\CPA3_Term_5\INFO-5060 Component Based Programming with .NET\Project 1\DM_ScrabbleProject\ScrabbleLibrary\obj\Debug\net5.0\ScrabbleLibrary.dll
+C:\Users\Dylan\Desktop\CPA3_Term_5\INFO-5060 Component Based Programming with .NET\Project 1\DM_ScrabbleProject\ScrabbleLibrary\obj\Debug\net5.0\ref\ScrabbleLibrary.dll
+C:\Users\Dylan\Desktop\CPA3_Term_5\INFO-5060 Component Based Programming with .NET\Project 1\DM_ScrabbleProject\ScrabbleLibrary\obj\Debug\net5.0\ScrabbleLibrary.pdb

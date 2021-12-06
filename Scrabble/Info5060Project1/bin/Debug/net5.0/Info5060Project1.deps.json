@@ -1,0 +1,90 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Info5060Project1/1.0.0": {
+        "dependencies": {
+          "ScrabbleLibrary": "1.0.0",
+          "Interop.Microsoft.Office.Core": "2.8.0.0",
+          "Interop.Microsoft.Office.Interop.Word": "8.7.0.0"
+        },
+        "runtime": {
+          "Info5060Project1.dll": {}
+        }
+      },
+      "ScrabbleLibrary/1.0.0": {
+        "runtime": {
+          "ScrabbleLibrary.dll": {}
+        }
+      },
+      "Interop.Microsoft.Office.Core/2.8.0.0": {
+        "runtime": {
+          "Interop.Microsoft.Office.Core.dll": {
+            "assemblyVersion": "2.8.0.0",
+            "fileVersion": "2.8.0.0"
+          }
+        }
+      },
+      "Interop.Microsoft.Office.Interop.Word/8.7.0.0": {
+        "runtime": {
+          "Interop.Microsoft.Office.Interop.Word.dll": {
+            "assemblyVersion": "8.7.0.0",
+            "fileVersion": "8.7.0.0"
+          }
+        }
+      },
+      "Interop.Microsoft.Office.Interop.Word.Reference/8.7.0.0": {
+        "runtime": {
+          "Interop.Microsoft.Office.Interop.Word.dll": {
+            "assemblyVersion": "8.7.0.0",
+            "fileVersion": "8.7.0.0"
+          }
+        }
+      },
+      "Interop.Microsoft.Office.Core.Reference/2.8.0.0": {
+        "runtime": {
+          "Interop.Microsoft.Office.Core.dll": {
+            "assemblyVersion": "2.8.0.0",
+            "fileVersion": "2.8.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Info5060Project1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ScrabbleLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Interop.Microsoft.Office.Core/2.8.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Interop.Microsoft.Office.Interop.Word/8.7.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Interop.Microsoft.Office.Interop.Word.Reference/8.7.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Interop.Microsoft.Office.Core.Reference/2.8.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

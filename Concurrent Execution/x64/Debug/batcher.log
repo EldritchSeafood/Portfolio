@@ -1,0 +1,7 @@
+﻿  batcher.cpp
+C:\Users\Dylan\Desktop\CPA3_Term_6\INFO-5104_C++_Advanced_Topics\Projects\Project 1 (Batcher)\DM_Batcher\Processor.cpp(83,1): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  LineInput.cpp
+  Processor.cpp
+C:\Users\Dylan\Desktop\CPA3_Term_6\INFO-5104_C++_Advanced_Topics\Projects\Project 1 (Batcher)\DM_Batcher\Processor.cpp(83,1): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  Generating Code...
+  batcher.vcxproj -> C:\Users\Dylan\Desktop\CPA3_Term_6\INFO-5104_C++_Advanced_Topics\Projects\Project 1 (Batcher)\DM_Batcher\x64\Debug\batcher.exe
